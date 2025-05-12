@@ -11,7 +11,7 @@ CORS(app)  # Enable CORS for cross-origin requests (required for ESP32)
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 SENDER_EMAIL = "million292929@gmail.com"  # Replace with your email
-SENDER_PASSWORD = "MIll0987654321!!"  # Replace with your email password
+SENDER_PASSWORD = "subg qqlc aqxt fjaf"  # Replace with your email password
 
 # Email endpoint
 @app.route('/send-email', methods=['POST'])
